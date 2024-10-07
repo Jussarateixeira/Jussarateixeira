@@ -1,4 +1,4 @@
-<h4 align="left">Olá 👋 Meu nome é Jussara! <br>Sou graduada em Tecnologia em Telemática pelo e Especialista em Engenharia de Software.</h4>
+<h2 align="left">Olá 👋 Meu nome é Jussara! <br>Sou graduada em Tecnologia em Telemática e Especialista em Engenharia de Software.</h2>
 
 ###
 
